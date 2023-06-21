@@ -1,0 +1,80 @@
+/* * {
+    border: 2px dotted red;
+} */
+
+body {
+    background-color: #2a6592;
+}
+
+#header {
+    border: 2px solid black;
+    margin: auto;
+    width: 50%;
+    padding-top: 1px;
+    border-radius: 30px;
+    min-height: fit-content;
+    text-align: center;
+    background-color: #db9833;
+}
+h1 {
+    margin-bottom: 1px;
+}
+a {
+    text-decoration: none;
+    padding: 5px;
+    margin: 0px 5% 0px 5%;
+}
+
+#external {
+    display: inline-block;
+    color: black;
+    height: fit-content;
+}
+#main {
+    padding: 5%;
+    height: inherit;
+}
+
+#projects_title {
+    margin: 0px;
+    height: fit-content;
+    text-align: center;
+}
+
+#project_header {
+    border-radius: 50px 50px 0px 0px;
+    width: 75%;
+    margin: 2% auto 0px auto;
+    padding: 25px 0px;
+    height: fit-content;
+    background-color: #db9833;
+    border-top: 2px solid black;
+    border-bottom: none;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#projects {
+    padding-top: 10px;
+    margin: 0% auto 0% auto;
+    width: 75%;
+    overflow: scroll;
+    border-radius: 0px 0px 50px 50px;
+    border-top: none;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    background-color: #f6d8ac;
+    height: 60%;
+}
+
+.project_blocks {
+    border-radius: 30px;
+    background-color: #8ec3eb;
+    border: 2px solid black;
+    margin: 5px auto;
+    /* display: inline; */
+    height: 200px;
+    width: inherit;
+}
+
