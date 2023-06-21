@@ -8,6 +8,7 @@ I am the only contributer I had previously misconfigured my git config causing m
 - [x] add a database locally.
     - [x] connect local app to database
     - [x] create project model for database. 
+        - [] create documents model, one to one relationship
     - [x] add alembic and generate migrations from sqlalchemy model
     - [x] create tables in database
 
